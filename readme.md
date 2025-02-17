@@ -7,4 +7,4 @@ This project aims to implement the terminator T1000 for **exterminate** somethin
 SkyNet, the great     
 ChagGPT
 ## Screenshot
-![Screenshot From 2025-02-17 15-58-42.png](Screenshot%20From%202025-02-17%2015-58-42.png)
+![Screenshot From 2025-02-17 16-07-10.png](Screenshot%20From%202025-02-17%2016-07-10.png)
